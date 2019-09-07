@@ -16,3 +16,5 @@
 <br>
 
 ## 2. 사진
+![ex_screenshot](./img/blog.jpg) <br>
+→ 메인 페이지
